@@ -1,3 +1,3 @@
 source 'http://rubygems.org'
 
-gem 'gollum'
+gem 'gollum', '>= 5.0.0'
